@@ -1,0 +1,6 @@
+Hissə A (Proqnozlar)
+A1: greet funksiyası default olaraq "Salam" götürür, amma ad və ya başqa söz verəndə onu dəyişir.
+
+A2: square qiyməti return ilə qaytarır deyə yaddaşda qalır, show_square isə sadəcə print edir, ona görə b dəyişəni None olur.
+
+A3: add_item siyahını birbaşa dəyişir, add_item_copy isə [: ilə surətini çıxarıb işlətdiyi üçün orijinal siyahıya toxunmur.
